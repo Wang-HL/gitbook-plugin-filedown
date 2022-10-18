@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-filedown",
-  "version": "1.0.0",
-  "description": "A gitbook plugin for download file",
+  "version": "1.0.1",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Wang-HL/gitbook-plugin-filedown.git"
   },
+  "entry point": "",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Wang-HL/gitbook-plugin-filedown/issues"
-  },
-  "homepage": "https://github.com/Wang-HL/gitbook-plugin-filedown#readme"
+  "license": "ISC"
 }
